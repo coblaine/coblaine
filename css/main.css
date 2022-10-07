@@ -231,7 +231,7 @@ html .section__title {
     flex-shrink: 0;
     width: 200px;
     margin-right: 70px;
-    color: #ac3232;
+    color: #9E1C20;
     text-transform: uppercase;
     text-align: right;
     font-weight: 700;
@@ -780,8 +780,8 @@ html #top-button img {
     image-rendering: -webkit-crisp-edges;
     image-rendering: pixelated;
     image-rendering: crisp-edges;
-    width:200px;
-    height:200px;
+    width:265px;
+    height:202px;
 }
 
 .intro__contact {
